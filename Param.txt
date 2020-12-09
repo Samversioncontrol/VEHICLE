@@ -22,3 +22,4 @@ PSLV uses the S139 solid rocket motor that is augmented by 6 solid strap-on boos
 Engine	: S139
 Fuel		: HTPB
 Max. Thrust	: 4800 kN
+Speed: 27,000 km/hr
